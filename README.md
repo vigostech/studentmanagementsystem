@@ -1,4 +1,4 @@
-# Django Student Management System 👨‍🎓
+# Django University/Student Management System 👨‍🎓
 
 A modern Student Management System 👨‍🎓 with features like Interactive Dashboard 🤩 Attendance Management 🏫Provide Feedback ✍ Result Generation 📜 Leave Application 🍂
 
