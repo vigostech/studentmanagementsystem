@@ -1,6 +1,6 @@
 # Django University/Student Management System 👨‍🎓
 
-A modern Student Management System 👨‍🎓 with features like Interactive Dashboard 🤩 Attendance Management 🏫Provide Feedback ✍ Result Generation 📜 Leave Application 🍂
+A modern Student Management System 👨‍🎓 with features like Interactive Dashboard Attendance Management 🏫Provide Feedback ✍ Result Generation 📜 Leave Application 🍂
 
 ## Development 
 Note : Make sure you have Python version 3.7+
@@ -9,7 +9,7 @@ Environment Setup 🚀
 
 `$ git clone `
 
-`$ cd Django_Student_Management_System/`
+`$ cd studentmanagementsystem/`
 
 If virtualenv is not installed 
 
