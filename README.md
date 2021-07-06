@@ -1,11 +1,11 @@
-# Django Student Management System π¨βπ
+# Django Student Management System 👨‍🎓
 
-A modern Student Management System π¨βπ with features like Interactive Dashboard π© Attendance Management π«Provide Feedback β Result Generation π Leave Application π
+A modern Student Management System 👨‍🎓 with features like Interactive Dashboard 🤩 Attendance Management 🏫Provide Feedback ✍ Result Generation 📜 Leave Application 🍂
 
 ## Development 
 Note : Make sure you have Python version 3.7+
 
-Environment Setup π
+Environment Setup 🚀
 
 `$ git clone `
 
@@ -23,7 +23,7 @@ Activate the environment everytime you open the project
 
 `$ source venv/Scripts/activate`
 
-Install requirements π 
+Install requirements 🛠
 
 `$ pip install -r requirements.txt`
 
@@ -33,7 +33,7 @@ Run migrations for Database
 
 `$ python manage.py migrate`
 
-Create superuser for Admin Login π
+Create superuser for Admin Login 🔐
 
 `$ python manage.py createsuperuser`
 
@@ -47,13 +47,13 @@ eg.
     
     Password: HighlyConfidentialPassword
 
-All Set! π©
+All Set! 🤩
 
-Now you can run the server to see your application up & running π
+Now you can run the server to see your application up & running 🚀
 
 `$ python manage.py runserver`
 
-To exit the environment β
+To exit the environment ❎
 
 `$ deactivate`
 
@@ -64,7 +64,7 @@ Every time you want to open the application in browser, make sure you run:
 `$ python manage.py runserver`
 
 
-### License β
+### License ✍
 
 ```
 MIT License
