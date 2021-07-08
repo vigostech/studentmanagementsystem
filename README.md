@@ -45,7 +45,7 @@ eg.
     
     Email: admin@admin.com
     
-    Password: HighlyConfidentialPassword
+    Password: *****
 
 All Set! 🤩
 
